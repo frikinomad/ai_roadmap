@@ -1,3 +1,5 @@
+![ai_roadmap_image](./ai_roadmap_image.jpg)
+
 1. **Raw Data:**
    - Raw data encompasses the initial information collected, which can include numerical data, text, images, audio, video, or any other form of data relevant to the problem at hand.
 
